@@ -1,0 +1,17 @@
+Depths
+High Concept
+While going deeper into a labyrinth, the player can collect power-ups to eliminate the monsters. 
+Genre
+Given it’s a basic dungeon crawler; its primary genre is going to be action, that includes both fantasy and roguelike elements. 
+Platform
+The game is going to primarily built with desktop in mind, but depending on how simple the controls end up being, could potentially be mobile compatible.
+Story
+The basic premise is that you found yourself in a dungeon and feel a desire to explore deeper into it. It’s going to be largely based around the theme of exploration, invoking feeling of uncertainty as the player doesn’t necessarily know too much about what is going to happen as they go deeper and deeper. In terms of player motivation, the main motivation is to try and get as keep as you can into the dungeon and get a high score. 
+Esthetics
+The graphics style is going to be relatively simplistic, taking place on a tiled world with at most 8-bit graphics. Sound design is again probably going to be 8-bit, playing basic sounds effects in both combat and picking up any items. 
+Gameplay
+The game is going to take place in a basic-top down dungeon. The dungeon is going to be divided up into tiles that the player can move around in, each unit of movement only being one tile. The level that the player is on is going to be largely randomly generated. The ultimate goal of each level is to find the stairway to the next level. Another particular thing to note is these levels are going to contain various items, some that increase your damage, your health, or potions that heal your health. Throughout each level there’s going to be monsters that you can fight, you can attack the monster in the space directly in front of you.	
+Controls are going to be pretty simple. Press W A S D to move north, west, south, and east respectively. You can attack the tile in front of you with the X button, and use your consumable (potions, etc) with the C button.
+The main learning curve for the game is resource management. Your health and your consumables are all resources that you have to consider when making decisions. For example suppose you see a chest with a monster guarding it, and you’re getting pretty low on health with no potions to speak of. Do you attempt to take the risk and fight the monster and potentially get an item that will let you last longer in the dungeon? Or do you say that it isn’t worth the risk and decide to bolt it to the next level to try and maximize your points? As your play the game, the idea is that you have to make those sorts of decisions a lot.
+About the developer.
+I’m Noah Hulick, I’m a sophomore Game Design & Development student, interested in learning more about Game Development and potentially delving off into making Assets/Art.
